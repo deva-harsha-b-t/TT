@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/ChangeLinks"
+        android:title="Change Links" />
+    <item android:id="@+id/showAllDays"
+        android:title="Show full Time Table"/>
+    <item android:id="@+id/ChangeTimeTable"
+        android:title="Change Time Table"/>
+    <item android:id="@+id/about" android:title="About"/>
+</menu>
